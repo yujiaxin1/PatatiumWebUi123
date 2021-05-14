@@ -1,0 +1,6 @@
+[2021-05-14 17:40:34,763] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-14 17:40:34,766] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-14 17:40:38,581] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-14 17:54:09,803] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-14 18:05:13,935] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]

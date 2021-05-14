@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<passed>
+<pass_assert_info   method="LoginTest.loginFail.1620894370509">
+<span class="pass_span">验证是否出现预期的错误提示信息:请输入账户名和密码:pass</span></br>
+</pass_assert_info>
+<pass_assert_info   method="LoginTest.loginFail.1620894373383">
+<span class="pass_span">验证是否出现预期的错误提示信息:请输入密码:pass</span></br>
+</pass_assert_info>
+</passed>

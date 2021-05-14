@@ -1,0 +1,292 @@
+[2021-05-13 11:28:47,251] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 11:28:47,254] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 11:28:50,877] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:28:51,247] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:28:51,459] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:28:51,461] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:28:51,462] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:28:51,463] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:28:51,517] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:28:51,686] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:28:51,687] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:28:51,687] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:28:51,687] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:28:51,734] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:28:51,899] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:28:51,902] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:28:51,905] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:28:51,905] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:28:51,953] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:28:52,115] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:28:52,116] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:28:52,116] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:28:53,158] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2021-05-13 11:28:53,159] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 11:28:53,160] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 11:28:54,493] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2021-05-13 11:28:56,168] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 11:28:56,195] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 11:28:56,701] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 11:28:57,702] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:28:57,792] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 11:28:57,792] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 11:28:57,869] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:
+]
+[2021-05-13 11:28:57,869] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:28:57,903] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 11:28:57,903] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:28:57,954] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:]
+[2021-05-13 11:28:57,954] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 11:28:58,390] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 11:29:00,390] INFO  org.webdriver.patatiumwebui.utils.Assertion 输入正确的用户名和密码，验证是否成功进入主页:【Assert验证】:页面是否出现【预期值：jd_8456195】字符串
+[2021-05-13 11:29:00,411] ERROR org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  failed!】
+[2021-05-13 11:29:01,396] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\2021-05-13 112900415.jpg
+[2021-05-13 11:29:01,403] ERROR org.webdriver.patatiumwebui.utils.TestListener 1
+[2021-05-13 11:29:01,802] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录成功测试1.jpg
+[2021-05-13 11:29:01,804] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2021-05-13 11:29:01,804] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2021-05-13 11:29:03,124] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2021-05-13 11:29:03,373] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2021-05-13 11:29:27,905] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 11:29:27,908] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 11:29:30,668] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:29:30,916] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:29:31,121] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:29:31,122] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:29:31,122] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:29:31,123] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:29:31,171] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:29:31,319] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:29:31,321] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:29:31,321] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:29:31,321] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:29:31,368] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:29:31,517] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:29:31,518] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:29:31,519] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:29:31,519] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:29:31,566] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:29:31,723] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:29:31,724] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:29:31,725] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:29:32,701] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2021-05-13 11:29:32,702] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 11:29:32,703] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 11:29:34,013] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2021-05-13 11:29:35,498] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 11:29:35,879] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 11:29:35,984] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 11:29:36,985] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:29:37,057] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 11:29:37,057] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 11:29:37,127] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:
+]
+[2021-05-13 11:29:37,128] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:29:37,162] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 11:29:37,163] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:29:37,219] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:]
+[2021-05-13 11:29:37,219] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 11:29:37,317] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 11:29:39,318] INFO  org.webdriver.patatiumwebui.utils.Assertion 输入正确的用户名和密码，验证是否成功进入主页:【Assert验证】:页面是否出现【预期值：jd_8456195】字符串
+[2021-05-13 11:29:39,335] ERROR org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  failed!】
+[2021-05-13 11:29:39,718] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\2021-05-13 112939337.jpg
+[2021-05-13 11:29:39,724] ERROR org.webdriver.patatiumwebui.utils.TestListener 1
+[2021-05-13 11:29:40,155] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录成功测试1.jpg
+[2021-05-13 11:29:40,158] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2021-05-13 11:29:40,158] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2021-05-13 11:29:41,223] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2021-05-13 11:29:41,514] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2021-05-13 11:30:27,816] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 11:30:27,818] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 11:30:30,728] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:39:14,138] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:39:24,600] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 11:39:24,604] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 11:39:27,306] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:39:27,594] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:39:27,843] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:39:27,845] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:39:27,845] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:39:27,846] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:39:27,896] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:39:28,058] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:39:28,060] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:39:28,060] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:39:28,061] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:39:28,109] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:39:28,274] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:39:28,276] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:39:28,276] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:39:28,276] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 11:39:28,326] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2021-05-13 11:39:28,469] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例0.jpg
+[2021-05-13 11:39:28,470] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 11:39:28,470] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 11:39:29,810] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2021-05-13 11:39:29,813] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 11:39:29,813] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 11:39:31,469] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2021-05-13 11:39:33,583] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 11:39:33,604] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 11:39:33,694] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 11:39:34,695] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:39:34,749] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 11:39:34,749] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 11:39:34,823] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:
+]
+[2021-05-13 11:39:34,824] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:39:34,855] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 11:39:34,856] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 11:39:34,910] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:]
+[2021-05-13 11:39:34,910] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 11:39:34,988] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 11:39:36,989] INFO  org.webdriver.patatiumwebui.utils.Assertion 输入正确的用户名和密码，验证是否成功进入主页:【Assert验证】:页面是否出现【预期值：jd_8456195】字符串
+[2021-05-13 11:39:37,010] ERROR org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  failed!】
+[2021-05-13 11:39:37,421] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\2021-05-13 113937013.jpg
+[2021-05-13 11:39:37,425] ERROR org.webdriver.patatiumwebui.utils.TestListener 1
+[2021-05-13 11:39:37,862] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录成功测试1.jpg
+[2021-05-13 11:39:37,864] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2021-05-13 11:39:37,864] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2021-05-13 11:39:40,408] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2021-05-13 11:39:40,662] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2021-05-13 16:25:55,133] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 16:25:55,135] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 16:25:58,033] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 16:26:00,341] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 16:26:00,359] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 16:26:00,463] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 16:26:01,463] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:01,558] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:01,559] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 16:26:01,648] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:aaa]
+[2021-05-13 16:26:01,648] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:01,682] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:01,683] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:01,764] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:bbb]
+[2021-05-13 16:26:01,764] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 16:26:01,907] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 16:26:02,908] INFO  org.webdriver.patatiumwebui.utils.Assertion 验证是否出现预期的错误提示信息:账户名与密码不匹配，请重新输入:【Assert验证】:页面是否出现【预期值：账户名与密码不匹配，请重新输入】字符串
+[2021-05-13 16:26:02,941] ERROR org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  failed!】
+[2021-05-13 16:26:03,332] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\2021-05-13 162602944.jpg
+[2021-05-13 16:26:03,338] ERROR org.webdriver.patatiumwebui.utils.TestListener 1
+[2021-05-13 16:26:03,778] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例1.jpg
+[2021-05-13 16:26:03,780] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 16:26:03,781] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 16:26:03,782] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 16:26:04,451] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 16:26:04,469] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 16:26:04,552] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 16:26:05,553] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:05,593] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:05,594] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 16:26:05,678] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:ccc]
+[2021-05-13 16:26:05,678] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:05,708] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:05,708] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:05,790] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:ddd]
+[2021-05-13 16:26:05,790] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 16:26:05,909] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 16:26:06,909] INFO  org.webdriver.patatiumwebui.utils.Assertion 验证是否出现预期的错误提示信息:密码不正确:【Assert验证】:页面是否出现【预期值：密码不正确】字符串
+[2021-05-13 16:26:06,922] ERROR org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  failed!】
+[2021-05-13 16:26:07,258] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\2021-05-13 162606924.jpg
+[2021-05-13 16:26:07,261] ERROR org.webdriver.patatiumwebui.utils.TestListener 1
+[2021-05-13 16:26:07,606] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录失败用例1.jpg
+[2021-05-13 16:26:07,608] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--failed
+[2021-05-13 16:26:07,608] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 16:26:07,608] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 16:26:08,112] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 16:26:08,129] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 16:26:08,228] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 16:26:09,229] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:09,270] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:09,270] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 16:26:09,330] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:]
+[2021-05-13 16:26:09,330] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:09,361] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:09,362] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:09,419] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:]
+[2021-05-13 16:26:09,419] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 16:26:09,494] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 16:26:10,494] INFO  org.webdriver.patatiumwebui.utils.Assertion 验证是否出现预期的错误提示信息:请输入账户名和密码:【Assert验证】:页面是否出现【预期值：请输入账户名和密码】字符串
+[2021-05-13 16:26:10,509] INFO  org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  pass!】
+[2021-05-13 16:26:10,510] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--passed
+[2021-05-13 16:26:10,510] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 16:26:10,511] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 16:26:10,870] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 16:26:10,978] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 16:26:11,072] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 16:26:12,074] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:12,120] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:12,120] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 16:26:12,203] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:ddd]
+[2021-05-13 16:26:12,203] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:12,234] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:12,234] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:12,292] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:]
+[2021-05-13 16:26:12,292] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 16:26:12,359] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 16:26:13,359] INFO  org.webdriver.patatiumwebui.utils.Assertion 验证是否出现预期的错误提示信息:请输入密码:【Assert验证】:页面是否出现【预期值：请输入密码】字符串
+[2021-05-13 16:26:13,383] INFO  org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  pass!】
+[2021-05-13 16:26:13,386] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录失败用例--passed
+[2021-05-13 16:26:13,386] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---end
+[2021-05-13 16:26:14,526] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2021-05-13 16:26:14,529] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 16:26:14,530] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 16:26:16,686] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2021-05-13 16:26:18,143] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 16:26:18,156] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 16:26:18,638] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 16:26:19,639] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:19,699] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:19,700] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 16:26:19,781] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:
+]
+[2021-05-13 16:26:19,781] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:19,818] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:26:19,818] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:26:19,895] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:]
+[2021-05-13 16:26:19,896] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 16:26:19,965] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 16:26:21,965] INFO  org.webdriver.patatiumwebui.utils.Assertion 输入正确的用户名和密码，验证是否成功进入主页:【Assert验证】:页面是否出现【预期值：jd_8456195】字符串
+[2021-05-13 16:26:21,982] ERROR org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  failed!】
+[2021-05-13 16:26:22,359] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\2021-05-13 162621984.jpg
+[2021-05-13 16:26:22,363] ERROR org.webdriver.patatiumwebui.utils.TestListener 1
+[2021-05-13 16:26:22,715] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\登录成功测试1.jpg
+[2021-05-13 16:26:22,717] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2021-05-13 16:26:22,717] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2021-05-13 16:26:24,377] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2021-05-13 16:26:24,923] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2021-05-13 16:32:45,815] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 16:32:45,819] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 16:32:49,103] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
+[2021-05-13 16:40:55,990] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://passport.jd.com/new/login.aspx网址!
+[2021-05-13 16:40:56,029] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：账户登录方式[By.xpath://a[text()='账户登录']]
+[2021-05-13 16:40:56,130] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：账户登录[By.xpath://a[text()='账户登录']]成功！
+[2021-05-13 16:40:57,131] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:40:57,208] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:40:57,209] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='loginname']]
+[2021-05-13 16:40:57,298] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='loginname']value:aaa]
+[2021-05-13 16:40:57,299] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:40:57,341] INFO  org.webdriver.patatiumwebui.utils.ElementAction 清除input值:密码输入框[By.id:nloginpwd]
+[2021-05-13 16:40:57,342] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:nloginpwd]
+[2021-05-13 16:40:57,412] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:nloginpwdvalue:bbb]
+[2021-05-13 16:40:57,412] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:loginsubmit]
+[2021-05-13 16:40:57,519] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:loginsubmit]成功！
+[2021-05-13 16:41:01,193] INFO  org.webdriver.patatiumwebui.utils.Assertion 验证是否出现预期的错误提示信息:账户名与密码不匹配，请重新输入:【Assert验证】:页面是否出现【预期值：账户名与密码不匹配，请重新输入】字符串
+[2021-05-13 16:41:01,234] ERROR org.webdriver.patatiumwebui.utils.Assertion 【Assert验证  failed!】
+[2021-05-13 16:41:03,971] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：C:\Users\yujiaxin\IdeaProjects\PatatiumWebUi\test-output\snapshot\2021-05-13 164101240.jpg
+[2021-05-13 16:41:09,170] ERROR org.webdriver.patatiumwebui.utils.TestListener 1
+[2021-05-13 16:41:19,079] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2021-05-13 16:41:19,082] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的ChromeDriver浏览器并将其初始化
+
+[2021-05-13 16:41:22,046] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录失败用例---start
